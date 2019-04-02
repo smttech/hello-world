@@ -20,6 +20,7 @@ end type
 global w_hello w_hello
 
 event open;//Git test
+//Test 2
 end event
 
 on w_hello.create
