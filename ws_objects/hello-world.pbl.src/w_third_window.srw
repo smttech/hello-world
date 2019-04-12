@@ -13,7 +13,7 @@ boolean controlmenu = true
 boolean minbox = true
 boolean maxbox = true
 boolean resizable = true
-long backcolor = 67108864
+long backcolor = 16776960
 string icon = "AppIcon!"
 boolean center = true
 end type
